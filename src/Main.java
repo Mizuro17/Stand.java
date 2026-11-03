@@ -13,7 +13,7 @@ public class Main {
         Carro Porsche = new Carro("Porsche 911 GT3", "Branco", 311, 510,"Alemão");
         Carro Nissan = new Carro("Nissan Skyline R34", "Azul e Branco", 250, 350, "Japonês");
 
-        System.out.println("\t\t\t\t|------- Stand dos Carrões -----|\n" +
+        System.out.println("\t\t\t\t|------- README.md dos Carrões -----|\n" +
                            "\n\n------- Login -----" +
                            "\nUtilizador: "
 
